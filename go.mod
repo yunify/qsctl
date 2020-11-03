@@ -4,7 +4,7 @@ go 1.14
 
 require (
 	bou.ke/monkey v1.0.2
-	github.com/AlecAivazis/survey/v2 v2.1.1
+	github.com/AlecAivazis/survey/v2 v2.2.0
 	github.com/Xuanwo/go-locale v0.3.0
 	github.com/Xuanwo/navvy v0.0.0-20191010141320-12f3cfcb6a27
 	github.com/Xuanwo/storage v1.2.1
